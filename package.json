@@ -19,7 +19,8 @@
     "tsconfig-paths": "^4.1.2"
   },
   "dependencies": {
-    "xmldom": "^0.6.0"
+    "xmldom": "^0.6.0",
+    "uuid": "^9.0.0"
   },
   "repository": {
     "type": "git",
