@@ -1,6 +1,6 @@
 {
   "name": "kml-to-geojson-v2",
-  "version": "1.0.16",
+  "version": "1.0.17",
   "description": "A library for converting KML files to GeoJSON",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
